@@ -1,0 +1,64 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogX" value="1038" />
+    <option name="newTranslationDialogY" value="406" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="是否可变" />
+      <item value="可变" />
+      <item value="changeable" />
+      <item value="changable" />
+      <item value="chang" />
+      <item value="可改变" />
+      <item value="e'k" />
+      <item value="The transaction isolation level. &lt;p&gt;Defaults to {@link IsolationDEFAULT}. &lt;p&gt;Exclusively designed for use with {@link PropagationREQUIRED} or {@link PropagationREQUIRES_NEW} since it only applies to newly started transactions. Consider switching the &quot;validateExistingTransactions&quot; flag to &quot;true&quot; on your transaction manager if you'd like isolation level declarations to get rejected when participating in an existing transaction with a different isolation level." />
+      <item value="A boolean flag that can be set to {@code true} if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. &lt;p&gt;Defaults to {@code false}. &lt;p&gt;This just serves as a hint for the actual transaction subsystem; it will &lt;i&gt;not necessarily&lt;i&gt; cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will &lt;i&gt;not&lt;i&gt; throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
+      <item value="是否存在" />
+      <item value="撤回" />
+      <item value="isAdmin" />
+      <item value="isAdm" />
+      <item value="isAd" />
+      <item value="isAdime" />
+      <item value="is" />
+      <item value="i" />
+      <item value="isRoot" />
+      <item value="超级" />
+      <item value="超级权限" />
+      <item value="gao'ji" />
+      <item value="管理" />
+      <item value="管理权限" />
+      <item value="If a lock is acquired and released within a method, then it must be released along all execution paths of that method. Failing to do so will expose the conditional locking logic to the method’s callers and hence be deadlock-prone." />
+      <item value="Unsupported Operation Exception" />
+      <item value="全景" />
+      <item value="quan" />
+      <item value="全奖" />
+      <item value="qu" />
+      <item value="球" />
+      <item value="排名" />
+      <item value="转换为" />
+      <item value="转换wei" />
+      <item value="转换" />
+      <item value="coverte" />
+      <item value="covert" />
+      <item value="co" />
+      <item value="defaulte" />
+      <item value="二维码类型" />
+      <item value="er'wei'm" />
+      <item value="we" />
+      <item value="二维" />
+      <item value="二维模" />
+      <item value="aggregate" />
+      <item value="aggregation" />
+      <item value="聚合" />
+      <item value="aggre" />
+      <item value="aggr" />
+      <item value="a'g'great" />
+      <item value="聚合对象" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1657095806449" />
+  </component>
+</application>
