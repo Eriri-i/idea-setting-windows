@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="comparison" />
       <item value="是否可变" />
       <item value="可变" />
       <item value="changeable" />
@@ -55,7 +56,6 @@
       <item value="aggre" />
       <item value="aggr" />
       <item value="a'g'great" />
-      <item value="聚合对象" />
     </histories>
   </component>
   <component name="Cache">
