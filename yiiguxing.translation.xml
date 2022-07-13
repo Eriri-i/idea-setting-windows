@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="1038" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="关系" />
       <item value="comparison" />
       <item value="是否可变" />
       <item value="可变" />
@@ -55,10 +56,9 @@
       <item value="聚合" />
       <item value="aggre" />
       <item value="aggr" />
-      <item value="a'g'great" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657095806449" />
+    <option name="lastTrimTime" value="1657687344919" />
   </component>
 </application>
