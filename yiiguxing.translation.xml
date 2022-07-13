@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="1038" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="模板" />
+      <item value="mu" />
+      <item value="templet" />
+      <item value="temple" />
+      <item value="templ" />
+      <item value="temp" />
       <item value="关系" />
       <item value="comparison" />
       <item value="是否可变" />
@@ -50,12 +56,6 @@
       <item value="er'wei'm" />
       <item value="we" />
       <item value="二维" />
-      <item value="二维模" />
-      <item value="aggregate" />
-      <item value="aggregation" />
-      <item value="聚合" />
-      <item value="aggre" />
-      <item value="aggr" />
     </histories>
   </component>
   <component name="Cache">
