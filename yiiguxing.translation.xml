@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1038" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="工艺" />
       <item value="权限" />
       <item value="曲线" />
       <item value="模板" />
@@ -54,12 +55,11 @@
       <item value="co" />
       <item value="defaulte" />
       <item value="二维码类型" />
-      <item value="er'wei'm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
